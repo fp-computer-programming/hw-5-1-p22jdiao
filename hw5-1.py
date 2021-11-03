@@ -5,7 +5,7 @@ import random as rd
 rd.seed(16)
 
 # Question 1
-print(rd.randint(31,50))
+print(rd.randint(31,49))
 
 # Question 2
 print(rd.randrange(4,75,2))
